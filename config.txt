@@ -202,12 +202,15 @@ FORUMURL https://discord.gg/5BN3tR7UUY
 
 ## Wiki address
 # WIKIURL http://tgstation13.org/wiki
+WIKIURL https://github.com/sheepishgoat/GS13-Blubberstation/wiki
 
 ## Rules address
 # RULESURL http://tgstation13.org/wiki/Rules
+RULESURL https://github.com/sheepishgoat/GS13-Blubberstation/wiki/Rules
 
 ## Github address
 # GITHUBURL https://www.github.com/tgstation/tgstation
+GITHUBURL https://github.com/sheepishgoat/GS13-Blubberstation/tree/master
 
 ## Discord bot command prefix, if the discord bot is used
 # DISCORDBOTCOMMANDPREFIX ?
