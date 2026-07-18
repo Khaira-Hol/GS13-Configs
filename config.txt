@@ -201,8 +201,7 @@ ALLOW_WEBCLIENT
 FORUMURL https://discord.gg/5BN3tR7UUY
 
 ## Wiki address
-# WIKIURL http://tgstation13.org/wiki
-WIKIURL https://github.com/sheepishgoat/GS13-Blubberstation/wiki
+WIKIURL http://tgstation13.org/wiki
 
 ## Rules address
 # RULESURL http://tgstation13.org/wiki/Rules
