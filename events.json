@@ -1,6 +1,6 @@
 {
 	"Space Pirates": {
-		"min_players": 20,
+		"min_players": 15,
 		"weight": 10
 	},
 	"Spawn Bitrunning Glitch": {
@@ -29,16 +29,16 @@
 		"weight": 100
 	},
 	"Carp Migration": {
-		"min_players": 12,
+		"min_players": 10,
 		"weight": 15,
 		"earliest_start": 6000
 	},
 	"Disease Outbreak: Classic": {
-		"min_players": 10,
+		"min_players": 7,
 		"weight": 5
 	},
 	"Disease Outbreak: Advanced": {
-		"min_players": 35,
+		"min_players": 20,
 		"weight": 15,
 		"earliest_start": 9000
 	},
@@ -77,7 +77,7 @@
 		"weight": 20
 	},
 	"Ion Storm": {
-		"min_players": 10,
+		"min_players": 8,
 		"weight": 15
 	},
 	"Market Crash": {
@@ -102,7 +102,7 @@
 		"weight": 0
 	},
 	"Processor Overload": {
-		"min_players": 20,
+		"min_players": 14,
 		"weight": 15
 	},
 	"Radiation Leak": {
@@ -114,9 +114,10 @@
 		"weight": 10
 	},
 	"Sandstorm: Directional": {
-		"min_players": 35,
+		"min_players": 20,
 		"weight": 10,
-		"earliest_start": 21000
+		"earliest_start": 21000,
+		"max_occurences": 1
 	},
 	"Sandstorm: Classic": {
 		"min_players": 0,
@@ -265,7 +266,7 @@
 		"weight": 8
 	},
 	"Spawn Fugitives": {
-		"min_players": 20,
+		"min_players": 10,
 		"weight": 10,
 		"earliest_start": 18000
 	},
@@ -283,7 +284,8 @@
 	},
 	"Spawn Revenant": {
 		"min_players": 5,
-		"weight": 7
+		"weight": 7,
+		"max_occurences": 0
 	},
 	"Random Human-level Intelligence": {
 		"min_players": 0,
@@ -315,8 +317,8 @@
 		"weight": 0
 	},
 	"Meteor Wave: Normal": {
-		"min_players": 15,
-		"weight": 4,
+		"min_players": 12,
+		"weight": 7,
 		"earliest_start": 15000
 	},
 	"Meteor Wave: Threatening": {
@@ -330,17 +332,18 @@
 		"earliest_start": 27000
 	},
 	"Meteor Wave: Meaty": {
-		"min_players": 15,
-		"weight": 2,
+		"min_players": 13,
+		"weight": 4,
 		"earliest_start": 15000
 	},
 	"Major Space Dust": {
-		"min_players": 15,
+		"min_players": 6,
 		"weight": 14,
-		"earliest_start": 9000
+		"earliest_start": 9000,
+		"max_occurences": 7
 	},
 	"Stray Meteor": {
-		"min_players": 15,
+		"min_players": 10,
 		"weight": 15
 	},
 	"Shuttle Loan": {
@@ -350,6 +353,6 @@
 	},
 	"Space Vines": {
 		"min_players": 10,
-		"weight": 15
+		"weight": 25
 	}
 }
