@@ -285,7 +285,7 @@
 	"Spawn Revenant": {
 		"min_players": 5,
 		"weight": 7,
-		"max_occurences": 0
+		"max_occurrences": 0
 	},
 	"Random Human-level Intelligence": {
 		"min_players": 0,
