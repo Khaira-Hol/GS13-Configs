@@ -117,7 +117,7 @@
 		"min_players": 20,
 		"weight": 10,
 		"earliest_start": 21000,
-		"max_occurences": 1
+		"max_occurrences": 1
 	},
 	"Sandstorm: Classic": {
 		"min_players": 0,
@@ -340,7 +340,7 @@
 		"min_players": 6,
 		"weight": 14,
 		"earliest_start": 9000,
-		"max_occurences": 7
+		"max_occurrences": 7
 	},
 	"Stray Meteor": {
 		"min_players": 10,
