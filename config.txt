@@ -24,7 +24,7 @@ $include gs13/gs13_config.txt
 # There are various options which are hard-locked for security reasons.
 
 ## Server name: This appears at the top of the screen in-game and in the BYOND hub. Uncomment and replace 'tgstation' with the name of your choice.
-# SERVERNAME tgstation
+@SERVERNAME GS13
 
 ## Server tagline: This will appear right below the server's title.
 # SERVERTAGLINE A generic TG-based server
@@ -456,7 +456,7 @@ MINUTE_CLICK_LIMIT 400
 CHANNEL_ANNOUNCE_NEW_GAME ss13-chat
 
 ## Which channels will have a message about a new game starting, message includes the round ID of the game that has just ended.
-#CHANNEL_ANNOUNCE_END_GAME
+CHANNEL_ANNOUNCE_END_GAME
 
 ## Ping users who use the `notify` command when a new game starts.
 CHAT_NEW_GAME_NOTIFICATIONS
