@@ -34,6 +34,8 @@
 #EVERYTHING = Simply gives you everything without having to type every flag.
 #@ = special keyword for the current permission type that adds all the keywords that the preceding rank has of the same type.
 
+# This goober text means the config worked after round restart
+
 Name = Admin Observer
 Include =
 Exclude = AUTOADMIN
