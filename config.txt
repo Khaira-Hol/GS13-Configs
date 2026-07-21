@@ -209,7 +209,7 @@ RULESURL https://github.com/sheepishgoat/GS13-Blubberstation/wiki/Rules
 
 ## Github address
 # GITHUBURL https://www.github.com/tgstation/tgstation
-GITHUBURL https://github.com/sheepishgoat/GS13-Blubberstation/tree/master
+GITHUBURL https://github.com/sheepishgoat/GS13-Blubberstation
 
 ## Discord bot command prefix, if the discord bot is used
 # DISCORDBOTCOMMANDPREFIX ?
