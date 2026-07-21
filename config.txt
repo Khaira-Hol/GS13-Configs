@@ -189,7 +189,7 @@ ALLOW_WEBCLIENT
 #USEWHITELIST
 
 ## The address shown for the game server in the TGS check command
-# PUBLIC_ADDRESS ss13.example.com:2506
+PUBLIC_ADDRESS byond://213.239.220.17:42069
 
 ## set a server location for world reboot. Don't include the byond://, just give the address and port.
 ## Don't set this to the same server, BYOND will automatically restart players to the server when it has restarted.
@@ -453,13 +453,13 @@ MINUTE_CLICK_LIMIT 400
 ## i.e. CHANNEL_ANNOUNCE_NEW_GAME chat_channel_tag_2
 
 ## Which channels will have a message about a new game starting, message includes the station name.
-#CHANNEL_ANNOUNCE_NEW_GAME
+CHANNEL_ANNOUNCE_NEW_GAME ss13-chat
 
 ## Which channels will have a message about a new game starting, message includes the round ID of the game that has just ended.
 #CHANNEL_ANNOUNCE_END_GAME
 
 ## Ping users who use the `notify` command when a new game starts.
-#CHAT_NEW_GAME_NOTIFICATIONS
+CHAT_NEW_GAME_NOTIFICATIONS
 
 ## Uncomment this flag to validate admin commands from discord by requiring they come from linked discord accounts and that those discord accounts link to a ckey with the right admin permissions.
 # SECURE_CHAT_COMMANDS
@@ -658,7 +658,7 @@ TGUI_MAX_CHUNK_COUNT 32
 
 ## While this is uncommented, server initialization will include some asset generation usually useful for development.
 ## It increases initialization time significantly so you'll want to disable this in live environments.
-GENERATE_ASSETS_IN_INIT
+#GENERATE_ASSETS_IN_INIT
 
 ## Path from the config folder to the policy json
 POLICY_JSON_PATH policy.json
