@@ -261,10 +261,6 @@
 		"min_players": 20,
 		"weight": 10
 	},
-	"Changeling Meteor": {
-		"min_players": 20,
-		"weight": 8
-	},
 	"Spawn Fugitives": {
 		"min_players": 10,
 		"weight": 10,
@@ -354,5 +350,18 @@
 	"Space Vines": {
 		"min_players": 10,
 		"weight": 25
+	},
+	"Bloodsuckers": {
+		"min_players": 18,
+		"weight": 5,
+		"max_occurrences": 2
+	},
+	"Changelings": {
+		"min_players": 15,
+		"max_occurrences": 2
+	},
+	"Changeling Meteor": {
+		"min_players": 15,
+		"weight": 8
 	}
 }
