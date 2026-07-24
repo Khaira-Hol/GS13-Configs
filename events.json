@@ -117,7 +117,7 @@
 		"min_players": 20,
 		"weight": 10,
 		"earliest_start": 35,
-		"max_occurrences": 1
+		"max_occurrences": 0
 	},
 	"Sandstorm: Classic": {
 		"min_players": 0,
