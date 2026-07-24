@@ -27,6 +27,7 @@ map icebox
 #	minplayers 25
 	minplayers 1
 	votable
+	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/icebox/
 endmap
 
 #map catwalkstation
@@ -41,13 +42,14 @@ map metastation
 	votable
 	#voteweight 0.5
 	#feedbacklink https://www.youtube.com/watch?v=XG8b7WhANNA
-	#webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/metastation
+	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/metastation/
 endmap
 
 map tramstation
 #	minplayers 35
 	minplayers 1
 	votable
+	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/tramstation/
 endmap
 
 map nebulastation
@@ -68,6 +70,7 @@ map biodome
 #	minplayers 40
 	minplayers 1
 	votable
+	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/biodome/
 endmap
 
 map blueshift
@@ -75,12 +78,14 @@ map blueshift
 	minplayers 1
 	votable
 #	feedbacklink https://discord.com/channels/1059199070016655462/1376747654339624970
+	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/blueshift/
 endmap
 
 map boxstation
 #	minplayers 30
 	minplayers 1
 	votable
+	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/boxstation/
 endmap
 
 map kilostation
@@ -99,12 +104,14 @@ map moonstation
 #	minplayers 50
 	minplayers 1
 	votable
+	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/moonstation/
 endmap
 
 map voidraptor
 #	minplayers 40
 	minplayers 1
 	votable
+	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/voidraptor/
 endmap
 
 map ouroboros
