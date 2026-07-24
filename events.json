@@ -280,7 +280,8 @@
 	},
 	"Lone Operative": {
 		"min_players": 0,
-		"weight": 0
+		"weight": 0,
+		"max_occurrences": 0
 	},
 	"Spawn Revenant": {
 		"min_players": 5,
