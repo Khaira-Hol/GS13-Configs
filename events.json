@@ -10,7 +10,7 @@
 	"Aurora Caelus": {
 		"min_players": 0,
 		"weight": 1,
-		"earliest_start": 3000
+		"earliest_start": 5
 	},
 	"Spontaneous Brain Trauma": {
 		"min_players": 13,
@@ -31,7 +31,7 @@
 	"Carp Migration": {
 		"min_players": 10,
 		"weight": 15,
-		"earliest_start": 6000
+		"earliest_start": 10
 	},
 	"Disease Outbreak: Classic": {
 		"min_players": 7,
@@ -40,7 +40,7 @@
 	"Disease Outbreak: Advanced": {
 		"min_players": 20,
 		"weight": 15,
-		"earliest_start": 9000
+		"earliest_start": 15
 	},
 	"Space Dust: Minor": {
 		"min_players": 0,
@@ -50,7 +50,7 @@
 	"Electrical Storm": {
 		"min_players": 5,
 		"weight": 20,
-		"earliest_start": 6000
+		"earliest_start": 10
 	},
 	"Fake Virus": {
 		"min_players": 0,
@@ -95,7 +95,7 @@
 	"Portal Storm: Syndicate Shocktroops": {
 		"min_players": 15,
 		"weight": 2,
-		"earliest_start": 18000
+		"earliest_start": 30
 	},
 	"Portal Storm: Constructs": {
 		"min_players": 10,
@@ -116,7 +116,7 @@
 	"Sandstorm: Directional": {
 		"min_players": 20,
 		"weight": 10,
-		"earliest_start": 21000,
+		"earliest_start": 35,
 		"max_occurrences": 1
 	},
 	"Sandstorm: Classic": {
@@ -131,12 +131,12 @@
 	"Scrubber Overflow: Threatening": {
 		"min_players": 25,
 		"weight": 4,
-		"earliest_start": 21000
+		"earliest_start": 35
 	},
 	"Scrubber Overflow: Catastrophic": {
 		"min_players": 35,
 		"weight": 2,
-		"earliest_start": 27000
+		"earliest_start": 45
 	},
 	"Scrubber Overflow: Every Vent": {
 		"min_players": 10,
@@ -157,12 +157,12 @@
 	"Stray Cargo Pod": {
 		"min_players": 0,
 		"weight": 20,
-		"earliest_start": 6000
+		"earliest_start": 10
 	},
 	"Stray Syndicate Cargo Pod": {
 		"min_players": 0,
 		"weight": 6,
-		"earliest_start": 18000
+		"earliest_start": 30
 	},
 	"Supermatter Surge": {
 		"min_players": 10,
@@ -175,27 +175,27 @@
 	"Tram Malfunction": {
 		"min_players": 10,
 		"weight": 30,
-		"earliest_start": 9000
+		"earliest_start": 15
 	},
 	"Ventilation Clog: Minor": {
 		"min_players": 0,
 		"weight": 25,
-		"earliest_start": 3000
+		"earliest_start": 5
 	},
 	"Ventilation Clog: Major": {
 		"min_players": 5,
 		"weight": 10,
-		"earliest_start": 6000
+		"earliest_start": 10
 	},
 	"Ventilation Clog: Critical": {
 		"min_players": 15,
 		"weight": 8,
-		"earliest_start": 15000
+		"earliest_start": 25
 	},
 	"Ventilation Clog: Strange": {
 		"min_players": 10,
 		"weight": 5,
-		"earliest_start": 3000
+		"earliest_start": 5
 	},
 	"Wisdom Cow": {
 		"min_players": 0,
@@ -268,7 +268,7 @@
 	"Spawn Fugitives": {
 		"min_players": 10,
 		"weight": 10,
-		"earliest_start": 18000
+		"earliest_start": 30
 	},
 	"Spawn Morph": {
 		"min_players": 0,
@@ -298,7 +298,7 @@
 	"Spawn Slaughter Demon": {
 		"min_players": 20,
 		"weight": 1,
-		"earliest_start": 36000
+		"earliest_start": 30
 	},
 	"Spawn Space Dragon": {
 		"min_players": 20,
@@ -319,27 +319,27 @@
 	"Meteor Wave: Normal": {
 		"min_players": 12,
 		"weight": 7,
-		"earliest_start": 15000
+		"earliest_start": 25
 	},
 	"Meteor Wave: Threatening": {
 		"min_players": 20,
 		"weight": 5,
-		"earliest_start": 21000
+		"earliest_start": 35
 	},
 	"Meteor Wave: Catastrophic": {
 		"min_players": 25,
 		"weight": 7,
-		"earliest_start": 27000
+		"earliest_start": 45
 	},
 	"Meteor Wave: Meaty": {
 		"min_players": 13,
 		"weight": 4,
-		"earliest_start": 15000
+		"earliest_start": 25
 	},
 	"Major Space Dust": {
 		"min_players": 6,
 		"weight": 14,
-		"earliest_start": 9000,
+		"earliest_start": 15,
 		"max_occurrences": 7
 	},
 	"Stray Meteor": {
@@ -349,7 +349,7 @@
 	"Shuttle Loan": {
 		"min_players": 0,
 		"weight": 10,
-		"earliest_start": 4200
+		"earliest_start": 7
 	},
 	"Space Vines": {
 		"min_players": 10,
