@@ -353,7 +353,7 @@
 	},
 	"Bloodsuckers": {
 		"min_players": 18,
-		"weight": 5,
+		"weight": 10,
 		"max_occurrences": 2
 	},
 	"Changelings": {
