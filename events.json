@@ -35,10 +35,10 @@
 	},
 	"Disease Outbreak: Classic": {
 		"min_players": 7,
-		"weight": 5
+		"weight": 11
 	},
 	"Disease Outbreak: Advanced": {
-		"min_players": 20,
+		"min_players": 16,
 		"weight": 15,
 		"earliest_start": 15
 	},
@@ -152,7 +152,7 @@
 	},
 	"Spider Infestation": {
 		"min_players": 14,
-		"weight": 10
+		"weight": 7
 	},
 	"Stray Cargo Pod": {
 		"min_players": 0,
@@ -271,7 +271,7 @@
 		"weight": 0
 	},
 	"Spawn Nightmare": {
-		"min_players": 20,
+		"min_players": 15,
 		"weight": 10
 	},
 	"Lone Operative": {
@@ -301,7 +301,7 @@
 		"weight": 7
 	},
 	"Spawn Space Ninja": {
-		"min_players": 20,
+		"min_players": 13,
 		"weight": 10
 	},
 	"Immovable Rod": {
@@ -352,16 +352,35 @@
 		"weight": 25
 	},
 	"Bloodsuckers": {
-		"min_players": 18,
-		"weight": 10,
+		"min_players": 12,
+		"weight": 15,
+		"max_occurrences": 2
+	},
+	"Vampiric Accident": {
+		"min_players": 12,
+		"weight": 15,
 		"max_occurrences": 2
 	},
 	"Changelings": {
-		"min_players": 15,
-		"max_occurrences": 2
+		"min_players": 13,
+		"max_occurrences": 1,
+		"weight": 15
 	},
 	"Changeling Meteor": {
 		"min_players": 15,
+		"max_occurrences": 1,
+		"weight": 13
+	},
+	"Genome Awakening (Changelings)": {
+		"min_players": 13,
+		"max_occurrences": 1,
+		"weight": 15
+	},
+	"Spawn Lone Infiltrator": {
 		"weight": 8
+	},
+	"Stray Changeling Zombie Virus Pod":
+	{
+		"min_players": 20
 	}
 }
