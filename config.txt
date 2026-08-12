@@ -132,7 +132,7 @@ ALLOW_ROCK_THE_VOTE
 VOTE_DELAY 6000
 
 ## time period (deciseconds) which voting session will last (default 1 minute)
-VOTE_PERIOD 1800
+VOTE_PERIOD 900
 
 ## prevents dead players from voting or starting votes
 #NO_DEAD_VOTE
