@@ -361,7 +361,7 @@ PANIC_BUNKER_MESSAGE This server requires whitelisting, please visit https://dis
 #PANIC_SERVER_NAME [Put the name here]
 
 ## Uncomment to have the changelog file automatically open when a user connects and hasn't seen the latest changelog
-#AGGRESSIVE_CHANGELOG
+AGGRESSIVE_CHANGELOG
 
 ## Comment this out if you've used the mass conversion sql proc for notes or want to stop converting notes
 AUTOCONVERT_NOTES
@@ -667,3 +667,9 @@ TGUI_MAX_CHUNK_COUNT 32
 
 ## Path from the config folder to the policy json
 POLICY_JSON_PATH policy.json
+
+# Which CIDs will not be considered for stickybans. This is the default CID that Wine spits out,
+# and for the purpose of not default banning all Linux players, we'll just ignore it.
+# People can spoof this CID and ignore that element of stickybans forever, but they can equally
+# just keep generating new ones. Kind of doesn't matter.
+IGNORED_CIDS 4055623708
