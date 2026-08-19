@@ -152,7 +152,8 @@
 	},
 	"Spider Infestation": {
 		"min_players": 14,
-		"weight": 7
+		"weight": 7,
+		"max_occurrences": 0
 	},
 	"Stray Cargo Pod": {
 		"min_players": 0,
