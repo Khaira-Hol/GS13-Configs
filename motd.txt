@@ -1,5 +1,33 @@
+<style>
+    .rainbow_text{
+        animation: rainbow 5000ms infinite;
+        font-size: larger;
+        font-weight: bolder;
+    }
+
+    a{animation: rainbow 5000ms infinite;}
+
+    @keyframes rainbow {
+    0% {color:#FF0000;}
+    16% {color:#FFFF00;}
+    33% {color: #00FF00;}
+    50% {color:#00FFFF;}
+    66% {color: #0000FF;}
+    84% {color:#FF00FF;}
+    100% {color: #FF0000;}
+}
+</style>
+
 <!-- Most valid html will work in here, but you have to use URL links for images. -->
 
 <h1 style="color:#ee2cb4">Welcome to Gain Station 13!</h1>
 
 <i>This server is a downstream of Bubber station, which is a downstream of TGstation 13.</i>
+
+<br>
+
+<span class='rainbow_text'>
+New FATNESS BALANCING PR UPCOMING. Read more here: <br>
+<a href = 'https://github.com/sheepishgoat/GS13-Blubberstation/pull/538'>https://github.com/sheepishgoat/GS13-Blubberstation/pull/538</a><br>
+Please contribute feedback on the discord.
+</span>
