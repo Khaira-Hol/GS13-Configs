@@ -19,10 +19,13 @@
 </style>
 
 <!-- Most valid html will work in here, but you have to use URL links for images. -->
-
-<h1 style="color:#ee2cb4">Welcome to Gain Station 13!</h1>
+<h1 style="color: #ee2cb4">Welcome to Gain Station 13!</h1>
 
 <i>This server is a downstream of Bubber station, which is a downstream of TGstation 13.</i>
+
+<br>
+
+<b style="color: #ed810d">A round of applause for the newest members of our moderation team!</b>
 
 <br>
 
