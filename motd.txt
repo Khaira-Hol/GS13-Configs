@@ -25,12 +25,5 @@
 
 <br>
 
-<b style="color: #ed810d">A round of applause for the newest members of our moderation team!</b>
-
-<br>
-
-<span class='rainbow_text_bold'>
-New FATNESS BALANCING PR UPCOMING. Read more here: <br>
-<a class = 'rainbow_text' href = 'https://github.com/sheepishgoat/GS13-Blubberstation/pull/538'>https://github.com/sheepishgoat/GS13-Blubberstation/pull/538</a><br>
-Please contribute feedback on the discord.
+<b style="color: #12f206">Where are my biweekly events, admemes?!</b>
 </span>
