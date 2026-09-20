@@ -7,6 +7,14 @@
         font-weight: bolder;
     }
 
+    .motd_link_hyperlink{
+        text-decoration: none;
+    }
+
+    .motd_link{
+        color:#00b3ff;
+    }
+
     @keyframes rainbow {
     0% {color:#FF0000;}
     16% {color:#FFFF00;}
@@ -25,5 +33,28 @@
 
 <br>
 
-<b style="color: #12f206">Where are my biweekly events, admemes?!</b>
+<ul>
+
+<li><a class = 'motd_link_hyperlink' href = "https://github.com/sheepishgoat/GS13-Blubberstation/wiki/Rules">
+    <b class = 'motd_link'>Click here to read the server rules</b>
+</a></li>
+
+<li><a class = 'motd_link_hyperlink' href = "https://github.com/sheepishgoat/GS13-Blubberstation/wiki/SOPs">
+    <b class = 'motd_link'>Click here to read the server Standard Operating Procedures</b>
+</a></li>
+
+<li><a class = 'motd_link_hyperlink' href = "https://github.com/sheepishgoat/GS13-Blubberstation/wiki/Guidelines">
+    <b class = 'motd_link'>Click here to read the server guidelines</b>
+</a></li>
+
+<li><a class = 'motd_link_hyperlink' href = "https://github.com/sheepishgoat/GS13-Blubberstation/wiki/Antagonist-Policies">
+    <b class = 'motd_link'>Click here to read about the servers antagonist policies</b>
+</a></li>
+
+<li><a class = 'motd_link_hyperlink' href = "https://github.com/sheepishgoat/GS13-Blubberstation/wiki/Security-Policies">
+    <b class = 'motd_link'>Click here to read up on the servers security policies</b>
+</a></li>
+
+</ul>
+
 </span>
