@@ -24,8 +24,6 @@ endmap
 #endmap
 
 map icebox
-#	minplayers 25
-	minplayers 1
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/icebox/
 endmap
@@ -37,8 +35,6 @@ endmap
 #endmap
 
 map metastation
-#	minplayers 25
-	minplayers 1
 	votable
 	#voteweight 0.5
 	#feedbacklink https://www.youtube.com/watch?v=XG8b7WhANNA
@@ -46,15 +42,11 @@ map metastation
 endmap
 
 map tramstation
-#	minplayers 35
-	minplayers 1
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/tramstation/
 endmap
 
 map nebulastation
-#	minplayers 35
-	minplayers 1
 	votable
 endmap
 
@@ -67,49 +59,36 @@ endmap
 # Bubberstation maps.
 
 map biodome
-#	minplayers 40
 	minplayers 1
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/biodome/
 endmap
 
 map blueshift
-#	minplayers 65
-	minplayers 1
 	votable
-#	feedbacklink https://discord.com/channels/1059199070016655462/1376747654339624970
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/blueshift/
 endmap
 
 map boxstation
-#	minplayers 30
-	minplayers 1
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/boxstation/
 endmap
 
 map kilostation
-#	maxplayers 40
-	minplayers 1
 	votable
 endmap
 
 map pubbystation
 	votable
-	minplayers 1
 	webmap_url https://webmap.affectedarc07.co.uk/maps/fulp/pubbystation/
 endmap
 
 map moonstation
-#	minplayers 50
-	minplayers 1
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/moonstation/
 endmap
 
 map voidraptor
-#	minplayers 40
-	minplayers 1
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/voidraptor/
 endmap
